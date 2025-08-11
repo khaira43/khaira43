@@ -46,7 +46,7 @@ Linux, Windows, macOS
 ### 💬 Chat App  
 Flutter, Dart, Firebase  
 - Real-time messaging app with secure authentication  
-- Minimalistic design improving load times by 20%
+- Minimalistic design improves load times by 20%
 
 ### 💸 Transaction Tracker  
 React.js, Node.js, Express.js, MongoDB  
@@ -74,5 +74,4 @@ HTML, CSS, JavaScript
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khaira43&show_icons=true&theme=radical)
 
