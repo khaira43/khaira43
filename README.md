@@ -43,6 +43,12 @@ Linux, Windows, macOS
 
 ## 📂 Key Projects
 
+## 🏋️ Fitness Tracking App
+SwiftUI, Firebase
+- iOS app for workout and routine management with exercise customization
+- Integrated Firebase Authentication, reducing failed login attempts by 30% during testing
+- Built reusable SwiftUI components, improving development efficiency by 25%
+- 
 ### 💬 Chat App  
 Flutter, Dart, Firebase  
 - Real-time messaging app with secure authentication  
