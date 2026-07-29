@@ -59,5 +59,5 @@ Relevant Coursework: Data Structures, Algorithms, Machine Learning, Advanced OOP
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/ranbirkhaira) • [GitHub](https://github.com/khaira43)
+[LinkedIn](https://www.linkedin.com/in/ranbir-khaira/) • [GitHub](https://github.com/khaira43)
 📧 rkhaira1010@gmail.com
