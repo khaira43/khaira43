@@ -1,83 +1,63 @@
 # Hi, I'm Ranbir Singh Khaira 👋
 
-**Toronto-based Computer Science student & software developer** passionate about building clean, efficient, and user-friendly applications.
+**Toronto-based Computer Science student & software developer** building full-stack web and mobile applications.
 
 ---
 
 ## 🎓 Education
 
-**York University**  
-_Bachelor of Science (Hons) in Computer Science_  
-_Sept 2021 – Apr 2026_  
-Relevant Coursework: Data Structures, Machine Learning, OOP, Algorithms, UX
+**York University** — *Bachelor of Science (Hons), Computer Science*
+*Sept 2021 – Dec 2026*
+Relevant Coursework: Data Structures, Algorithms, Machine Learning, Advanced OOP, Databases, Operating Systems
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages:**  
-Python, Java, C, C++, JavaScript, TypeScript, Swift, Kotlin, Dart, SQL, HTML, CSS, PHP, RISC-V, Prolog, VBA, UML
-
-**Tools & Frameworks:**  
-Flutter, React.js, Node.js, Express.js, MongoDB, Firebase, Selenium, Jenkins, JUnit, SwiftUI, Git, Jira, Power BI, Figma
-
-**Platforms:**  
-Linux, Windows, macOS
+**Languages:** JavaScript, TypeScript, Python, Java, C, C++, SQL, Swift, Kotlin, PHP, HTML, CSS
+**Frameworks & Libraries:** React, Angular, Node.js, Express.js, Socket.io, SwiftUI, Flutter, GraphQL, JUnit
+**Tools & Platforms:** Git, GitHub, MongoDB, Firebase, Docker, Jenkins, Jira, Confluence, Figma, Power BI, Selenium, Playwright, Linux
 
 ---
 
 ## 🚀 Experience
 
-### Ontario Government — Automation Tester  
-*Sept 2024 – Present*  
-- Improved regression test accuracy from 79% to 98% with Selenium & Java  
-- Collaborated in Agile teams using Jira & GitLab  
-- Developed automated SQL validation scripts
+### Tally Rewards — Web Engineer
+*Apr 2026 – Present*
+- Built and maintained a venue and marketing dashboard using React 19, TanStack Start, and TypeScript, deployed on Cloudflare Workers for edge-side rendering
+- Integrated a GraphQL API layer with automated code generation and TanStack Query for efficient data fetching and state management
+- Wrote end-to-end tests with Playwright and unit tests with Bun, contributing to CI pipelines in a monorepo environment
+- Collaborated with backend and mobile engineers in an Elixir/Phoenix monorepo across web, iOS, and infrastructure teams
 
-### York University — Software Developer  
-*Jan 2024 – Apr 2024*  
-- Built a GUI-based library management system with Java  
-- Designed UML diagrams and achieved 93% test coverage with JUnit & Randoop
+### Ontario Government — Software Developer
+*Jan 2026 – Aug 2026*
+- Developed and maintained web applications using Angular and TypeScript, building reusable component libraries that standardized UI across multiple ministry tools
+- Designed and consumed RESTful APIs following a microservices architecture, integrating front-end applications with backend services
+- Built automated reporting scripts that replaced a manual process, cutting report generation time from hours to minutes
 
----
-
-## 📂 Key Projects
-
-## 🏋️ Fitness Tracking App
-SwiftUI, Firebase
-- iOS app for workout and routine management with exercise customization
-- Integrated Firebase Authentication, reducing failed login attempts by 30% during testing
-- Built reusable SwiftUI components, improving development efficiency by 25%
-  
-### 💬 Chat App  
-Flutter, Dart, Firebase  
-- Real-time messaging app with secure authentication  
-- Minimalistic design improves load times by 20%
-
-### 💸 Transaction Tracker  
-React.js, Node.js, Express.js, MongoDB  
-- Full-stack MERN app to manage finances  
-- Improved UX resulting in 25% fewer user errors
-
-### 🤖 Machine Learning & Exercise Analysis  
-Python, Google Colab  
-- Led team to analyze and model exercise data using 3 ML algorithms
-
-### 🖥 CPU Scheduling Simulator  
-C, Unix  
-- Simulated process scheduling algorithms demonstrating OS fundamentals
-
-### 🌐 Web Portfolio  
-HTML, CSS, JavaScript  
-- Responsive portfolio optimized for SEO, reducing bounce rates by 40%
+### Ontario Government — Automation Tester
+*Sept 2024 – Sept 2025*
+- Optimized regression tests, increasing accuracy from 79% to 98% using Selenium and Java
+- Participated in Agile development with two-week sprints, using Jira and GitLab for collaboration and deployment
+- Developed automated SQL validation scripts using SQL Developer for data fetching
 
 ---
 
-## 📫 Let’s Connect!
+## 📂 Projects
 
-[LinkedIn](https://linkedin.com/in/ranbirkhaira) • [GitHub](https://github.com/khaira43) • [Portfolio](https://rkhaira.com/)  
-📧 rkhaira1010@gmail.com • 📞 416-277-3586
+### 🎬 CineCircle — React, Node.js, MongoDB, TypeScript, Socket.io
+- Full-stack movie and TV review platform (MERN + TypeScript) with user authentication, category-based reviews, commenting, and voting
+- JWT authentication with bcrypt hashing and ownership-enforced REST endpoints
+- Socket.io real-time viewer counts and MongoDB aggregation pipelines, with 52 automated Jest and Supertest tests
+
+### 🏋️ BarbellBase — SwiftUI, Firebase
+- iOS fitness tracking app for managing workout routines with exercise customization
+- Firebase Authentication for sign-up, login, and password reset with error handling
+- Reusable SwiftUI components and Firestore data modeling with real-time sync
 
 ---
 
+## 📫 Connect
 
+[LinkedIn](https://linkedin.com/in/ranbirkhaira) • [GitHub](https://github.com/khaira43)
+📧 rkhaira1010@gmail.com
